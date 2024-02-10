@@ -63,12 +63,12 @@ s/せせころ/ :sesecoro: /g
 s/審議/ :shingi: /g
 s/しか/ :sika: /g
 s/[Ss][Pp][Dd][Rr]3000万円欲しい[!！]?/ :spdr3000manyenhoshii: /g
+s/うさたんたん/ :usatantan: /g
 s/たん/ :tan: /g
 s/うちはうち/ :uchi_ha_uchi: /g
 s/うふふ/ :ufufu: /g
 s/雲散霧消の白湯してこっ[!！]?/ :unsanmushouno_sayusiteko: /g
 s/うさ/ :usa: /g
-s// :usatantan: /g
 s/わたくし/ :watakushi: /g
 s/わたくしだってそうですの/ :watakushi_datte_soudesuno: /g
 s/わたくしだってそうですわ/ :watakushi_datte_soudesuwa: /g
