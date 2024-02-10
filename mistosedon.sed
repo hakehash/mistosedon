@@ -80,3 +80,5 @@ s/よろしくてよ/ :yorosikuteyo: /g
 s/よそはよそ/ :yoso_ha_yoso: /g
 s/よそ/ :yoso: /g
 s/ゆめぴりかってなんですか/ :yumepirika_tte_nandesuka: /g
+s/  / /g
+s/^ //g
