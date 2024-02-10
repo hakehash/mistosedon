@@ -69,16 +69,16 @@ s/うちはうち/ :uchi_ha_uchi: /g
 s/うふふ/ :ufufu: /g
 s/雲散霧消の白湯してこっ[!！]?/ :unsanmushouno_sayusiteko: /g
 s/うさ/ :usa: /g
-s/わたくし/ :watakushi: /g
 s/わたくしだってそうですの/ :watakushi_datte_soudesuno: /g
 s/わたくしだってそうですわ/ :watakushi_datte_soudesuwa: /g
 s/わたくしは/ :watakushi_ha: /g
 s/わたくしの/ :watakushi_no: /g
 s/わたくしたちは/ :watakushi_tachi_ha: /g
+s/わたくし/ :watakushi: /g
 s/[Yy][Ee][Ss]/ :yes: /g
 s/よろしくてよ/ :yorosikuteyo: /g
 s/よそはよそ/ :yoso_ha_yoso: /g
 s/よそ/ :yoso: /g
 s/ゆめぴりかってなんですか/ :yumepirika_tte_nandesuka: /g
-s/  / /g
+s/  +/ /g
 s/^ //g
