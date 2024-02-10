@@ -1,3 +1,4 @@
+s/[Ss][Ii][Tt][Aa]/ :sita: /g
 s/博識/ :hakushiki: /g
 s/無職/ :mushoku: /g
 s/多趣味/ :tashumi: /g
@@ -61,7 +62,6 @@ s/白湯/ :sayu: /g
 s/せせころ/ :sesecoro: /g
 s/審議/ :shingi: /g
 s/しか/ :sika: /g
-s/[Ss][Ii][Tt][Aa]/ :sita: /g
 s/[Ss][Pp][Dd][Rr]3000万円欲しい[!！]?/ :spdr3000manyenhoshii: /g
 s/たん/ :tan: /g
 s/うちはうち/ :uchi_ha_uchi: /g
