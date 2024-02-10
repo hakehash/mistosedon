@@ -65,7 +65,7 @@ s/しか/ :sika: /g
 s/[Ss][Pp][Dd][Rr]3000万円欲しい[!！]?/ :spdr3000manyenhoshii: /g
 s/うさたんたん/ :usatantan: /g
 s/たん/ :tan: /g
-s/うちはうち/ :uchi_ha_uchi: /g
+s/うちはうち[、]?/ :uchi_ha_uchi: /g
 s/うふふ/ :ufufu: /g
 s/雲散霧消の白湯してこっ[!！]?/ :unsanmushouno_sayusiteko: /g
 s/うさ/ :usa: /g
@@ -77,7 +77,7 @@ s/わたくしたちは/ :watakushi_tachi_ha: /g
 s/わたくし/ :watakushi: /g
 s/[Yy][Ee][Ss]/ :yes: /g
 s/よろしくてよ/ :yorosikuteyo: /g
-s/よそはよそ/ :yoso_ha_yoso: /g
+s/よそはよそ[、]?/ :yoso_ha_yoso: /g
 s/よそ/ :yoso: /g
 s/ゆめぴりかってなんですか/ :yumepirika_tte_nandesuka: /g
 s/  +/ /g
