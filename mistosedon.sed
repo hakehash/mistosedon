@@ -69,6 +69,7 @@ s/うちはうち[、]?/ :uchi_ha_uchi: /g
 s/うふふ/ :ufufu: /g
 s/雲散霧消の白湯してこっ[!！]?/ :unsanmushouno_sayusiteko: /g
 s/うさ/ :usa: /g
+s/私/わたくし/g
 s/わたくしだってそうですの/ :watakushi_datte_soudesuno: /g
 s/わたくしだってそうですわ/ :watakushi_datte_soudesuwa: /g
 s/わたくしは/ :watakushi_ha: /g
