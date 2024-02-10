@@ -2,7 +2,7 @@ s/[Ss][Ii][Tt][Aa]/ :sita: /g
 s/博識/ :hakushiki: /g
 s/無職/ :mushoku: /g
 s/多趣味/ :tashumi: /g
-s/三日前から/ :3kamaekara: /g
+s/[3３三]日前から/ :3kamaekara: /g
 s/あらまあ/ :aramaa: /g
 s/あら/ :ara: /g
 s/ありましたのね/ :arimasitanone: /g
