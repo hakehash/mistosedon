@@ -80,6 +80,7 @@ s/[Yy][Ee][Ss]/ :yes: /g
 s/よろしくてよ/ :yorosikuteyo: /g
 s/よそはよそ、*/ :yoso_ha_yoso: /g
 s/よそ/ :yoso: /g
+s/ゆっくり/ :yukkuri: /g
 s/ゆめぴりかってなんですか/ :yumepirika_tte_nandesuka: /g
 s/  */ /g
 s/^ //g
